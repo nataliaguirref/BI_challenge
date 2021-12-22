@@ -29,6 +29,6 @@ We need a complete network of all customers maybe active customers to 6 months i
   <img src="CreditCard_rejected.PNG" align="right"  height="280" width="400">
   </p>
   <p float="left">
-<img src="CreditCard_motive.PNG" height="280" width="400"> 
-  <img src="DeliveryScore.PNG" height="280" width="400">
+<img src="CreditCard_motive.PNG" align="left"  height="280" width="400"> 
+  <img src="DeliveryScore.PNG" align="right"  height="280" width="400">
  </p>
