@@ -42,6 +42,6 @@ If we look at the customers who request the credit card we have two ways "approv
  As a hypothesis, I separate by zip code with the idea that the score could vary by zones but if we can see the average of score is less than 2.  
   
   <p float="left">
-<img src="CreditCard_motive.PNG" align="left"  height="280" width="400"> 
-  <img src="DeliveryScore.PNG" align="right"  height="280" width="400">
+<img src="CreditCard_motive.PNG" height="280" width="400"> 
+  <img src="DeliveryScore.PNG" height="280" width="400">
  </p>
