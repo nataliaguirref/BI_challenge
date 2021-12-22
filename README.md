@@ -25,7 +25,6 @@ We need a complete network of all customers maybe active customers to 6 months i
 [4]
 
 <img src="First_Step.PNG" height="400" width="700">
-<img src="CreditCard_status.PNG" height="400" width="700">
-<img src="CreditCard_rejected.PNG" height="400" width="700">
-<img src="CreditCard_motive.PNG" height="400" width="700">
-<img src="DeliveryScore.PNG" height="400" width="700">
+<img src="CreditCard_status.PNG" height="300" width="600"> <img src="CreditCard_rejected.PNG" height="300" width="600">
+<img src="CreditCard_motive.PNG" height="300" width="600"> <img src="DeliveryScore.PNG" height="300" width="600">
+
