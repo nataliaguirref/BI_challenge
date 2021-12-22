@@ -22,4 +22,4 @@ If I take the example of 'dormant', I thing its "normal" to understand the conce
 The challenge of having multiple systems is the size or range that each one has, if we take the third system we have a line for a customer with all the personal information and if we take the second system we know that it feeds on every time a customer ask for a credit, maybe if we want a historical analysis of credit we can use the second system but if we want a simple analysis for a few customers and we bring the data for second to third maybe we are going to work with data that we don´t need and and its going to take more time.
 We need a complete network of all customers maybe active customers to 6 months inactive customers with personal information, last movement of credit, etc. and all the teams can use it without excluding any movement. 
 
-[4]<img src="First_Step.PNJ">
+[4]<img src="First_Step.PNG">
