@@ -24,10 +24,23 @@ We need a complete network of all customers maybe active customers to 6 months i
 
 [4]
 
+We have 3341 IDs in the DB and if we look the percentage of 'response' is bigger than customers who don´t respond, but 31.22% its still significant given the weight in ads
+
 <img src="First_Step.PNG" height="300" width="500">
-<p float="left"> <img src="CreditCard_status.PNG" align="left" height="280" width="400"> 
-  <img src="CreditCard_rejected.PNG" align="right"  height="280" width="400">
+
+If we look at the customers who request the credit card we have two ways "approved" or "rejected", we have more approved customers than reject, and just for financial statistics we can see the reasons why the credit was rejected. 
+
+<p float="left"> 
+  <img src="CreditCard_status.PNG"  height="280" width="400"> 
+  <img src="CreditCard_rejected.PNG"   height="280" width="400">
   </p>
+  
+  
+  If you have an 'approved credit card' you can choose between 'plastic' or 'digital', I expected the digital card to be more chosen than the plastic one becouse of the app. 
+  Customers choose plastic card most likely and we know that, we have a issue talking about 'delivery' 
+  
+ As a hypothesis, I separate by zip code with the idea that the score could vary by zones but if we can see the average of score is less than 2.  
+  
   <p float="left">
 <img src="CreditCard_motive.PNG" align="left"  height="280" width="400"> 
   <img src="DeliveryScore.PNG" align="right"  height="280" width="400">
